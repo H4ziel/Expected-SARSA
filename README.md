@@ -1,1 +1,3 @@
-## Implementação dos métodos de aprendizado - SARSA & Expected SARSA
+## SARSA & Expected SARSA
+
+### Implementaçãos dos métodos de aprendizados num ambiente grid-world.
