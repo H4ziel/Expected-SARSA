@@ -1,0 +1,8 @@
+# número de linhas e colunas do gridworld 
+5 12
+# "0" indica espaço vazio, "1" indicam portas, "2", "3" e "9" indicam posição do agente, objetivo e chave para abrir portas e "4" indica o penhasco
+0 0 0 0 0 1 0 1 0 0 0 0
+0 0 0 1 0 0 0 0 1 0 1 0
+0 0 1 0 9 0 0 0 0 1 0 0
+0 0 4 4 4 4 4 4 0 0 1 0
+2 4 4 4 4 4 4 4 4 4 4 3
